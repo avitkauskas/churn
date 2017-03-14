@@ -1,2 +1,4 @@
-# churn
-Experiment with mobile operator customer churn prediction
+# Experiment with customer churn modeling
+
+##### Note
+> Data files are not provided due to the size limitations
